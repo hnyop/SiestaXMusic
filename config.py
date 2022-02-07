@@ -20,11 +20,11 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = "https://github.com/TechShreyash/SiestaXMusic"
+UPSTREAM_REPO = "https://github.com/AbhimanyuLogs/SiestaXMusic"
 UPSTREAM_BRANCH = "main"
 
-SUPPORT_CHANNEL = "https://t.me/TechZBots"
-SUPPORT_GROUP = "https://t.me/TechZBots_Support"
+SUPPORT_CHANNEL = "https://t.me/Offical_TuM_Bin"
+SUPPORT_GROUP = "https://t.me/LoL_Offical_TuM_BiN"
 
 THUMBNAIL = getenv("THUMB_LINK") 
 
