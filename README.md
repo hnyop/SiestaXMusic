@@ -1,4 +1,4 @@
-<h3>⚠️ This repo is just a clone of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
+<h3>⚠️ This repo is just a clone of <a href="https://github.com/hnyop/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
 <p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
 
@@ -12,7 +12,7 @@
     <a href="https://t.me/TechZBots_Support"> Support Chat </a> 
 </p>
     
-# SiestaXMusic
+# ROYAL FIGHTERS MUSIC
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
@@ -88,9 +88,9 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TechZBots)
-- [Telegram Support Group](https://t.me/TechZBots_Support)
-- [Contact Owner](https://t.me/Tech_Shreyash)
+- [Telegram Channel](https://t.me/R_O_Y_A_L_F_I_G_H_T_E_R_S)
+- [Telegram Support Group](https://t.me/R_O_Y_A_L_F_I_G_H_T_E_R_S)
+- [Contact Owner](https://t.me/R_O_Y_A_L_F_I_G_H_T_E_R_S)
 
 
 ## License
